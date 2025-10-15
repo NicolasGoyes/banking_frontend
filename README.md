@@ -1,2 +1,2 @@
 # banking_frontend
-Banking Frontend
+Banking Frontend. Stack: React js and Tailwind (CSS) / Bootstrap.
