@@ -8,7 +8,7 @@ const App = () => {
     <div>
       <section className = "hero-section">
         <div className = "hero-content">
-          <h1>Cristian el mas puto</h1>
+          <h1>Welcome to my Bank</h1>
           <p>Your reliable partner in managing finances with ease and security</p>
           <a href = "/get started" className="cta-button">Get started</a>
         </div>
